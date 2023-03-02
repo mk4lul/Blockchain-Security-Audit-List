@@ -94,7 +94,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 * [Week in Ethereum News](https://weekinethereumnews.com/)
 
 ## Comprehensive List of Hacks & Exploits
-* [Cryptosec DeFi Hacks](https://cryptosec.info/defi-hacks/)
+* [ChainSec DeFi Hacks](https://chainsec.io/defi-hacks/)
 * [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
 * [DefiLlama](https://defillama.com/hacks)
 * [Openzeppelin Post Mortems](https://forum.openzeppelin.com/t/list-of-ethereum-smart-contracts-post-mortems/1191)
